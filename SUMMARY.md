@@ -18,3 +18,7 @@
 * [LEGAL](front-matter/legal.md)
 * [Introduction](front-matter/untitled.md)
 
+## Legends Manual
+
+* [Untitled](legends-manual/untitled.md)
+
