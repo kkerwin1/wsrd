@@ -4,11 +4,9 @@
 
 ## Player Manual
 
-* [Untitled](player-manual/untitled.md)
+## GM Manual
 
-## DM Manual
-
-* [Untitled](dm-manual/untitled.md)
+* [Untitled](gm-manual/untitled.md)
 
 ## NPC Manual
 
@@ -16,6 +14,7 @@
 
 ## Front Matter
 
+* [How to read this book](front-matter/untitled-1.md)
 * [LEGAL](front-matter/legal.md)
 * [Introduction](front-matter/untitled.md)
 

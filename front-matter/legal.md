@@ -1,3 +1,7 @@
+---
+description: FM 10101.002
+---
+
 # LEGAL
 
 The phrases "D&D", "Dungeons and Dragons", "Standard Reference Document" \("SRD"\), "Open Gaming License" \("OGL"\), spells, abilities, features, etc are copyright Wizards of the Coast LLC \("Wizards"\), \(C\) 1995-2018. Wizards is a subsidiary of Hasbro Inc.
