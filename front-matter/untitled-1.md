@@ -16,5 +16,15 @@ It is hoped that the book will be well-organized and easily citable. Indeed, the
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Manual | Unit | Chapter | Section | Page | Intrapage Citation |
 
-The FM is an abbreviation for this manual, the "Front Matter". There are 
+The FM is an abbreviation for this manual, the "Front Matter". There are five manuals in this book:
+
+| Manual Name | Manual Abbreviation | Purpose |
+| :--- | :--- | :--- |
+| Front Matter | FM | Administrivia |
+| Player Manual | PM | Information for Players |
+| GM Manual | GM | Information for GMs |
+| NPC Manual | NM | Stat blocks representing NPCs |
+| Legends Manual | LM | Information regarding Legends, the associated addon |
+
+
 
