@@ -6,7 +6,7 @@
 
 * [How to read this book](front-matter/how-to-read.md)
 * [LEGAL](front-matter/legal.md)
-* [Introduction](front-matter/untitled.md)
+* [Introduction](front-matter/introduction.md)
 
 ## Player Manual
 
