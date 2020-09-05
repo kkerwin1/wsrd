@@ -10,6 +10,10 @@
 
 ## Player Manual
 
+---
+
+* [blah](blah.md)
+
 ## GM Manual
 
 * [Untitled](gm-manual/untitled.md)
