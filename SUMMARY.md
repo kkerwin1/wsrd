@@ -4,7 +4,7 @@
 
 ## Front Matter
 
-* [How to read this book](front-matter/untitled-1.md)
+* [How to read this book](front-matter/how-to-read.md)
 * [LEGAL](front-matter/legal.md)
 * [Introduction](front-matter/untitled.md)
 
