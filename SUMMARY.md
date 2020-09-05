@@ -8,12 +8,6 @@
 * [LEGAL](front-matter/legal.md)
 * [Introduction](front-matter/introduction.md)
 
-## Player Manual
-
----
-
-* [blah](blah.md)
-
 ## GM Manual
 
 * [Untitled](gm-manual/untitled.md)
@@ -25,4 +19,8 @@
 ## Legends Manual
 
 * [Untitled](legends-manual/untitled.md)
+
+## Player Manual
+
+* [Untitled](player-manual/untitled.md)
 
