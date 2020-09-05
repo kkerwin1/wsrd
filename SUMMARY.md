@@ -1,7 +1,6 @@
 # Table of contents
 
 * [README](README.md)
-* [LEGAL](legal.md)
 
 ## Player Manual
 
@@ -14,4 +13,9 @@
 ## NPC Manual
 
 * [Untitled](npc-manual/untitled.md)
+
+## Front Matter
+
+* [LEGAL](front-matter/legal.md)
+* [Untitled](front-matter/untitled.md)
 
